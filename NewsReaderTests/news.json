@@ -1,0 +1,1205 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/f99a247f-4007-51fb-8f38-3227f5be02fc",
+            "url": "https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html",
+            "id": 100000009860792,
+            "asset_id": 100000009860792,
+            "source": "New York Times",
+            "published_date": "2024-12-05",
+            "updated": "2024-12-06 09:10:16",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Health Insurance and Managed Care;Assassinations and Attempted Assassinations;Thompson, Brian (1974-2024);UnitedHealth Group Inc;Midtown Area (Manhattan, NY)",
+            "column": null,
+            "byline": "By Dionne Searcey and Madison Malone Kircher",
+            "type": "Article",
+            "title": "Torrent of Hate for Health Insurance Industry Follows C.E.O.’s Killing",
+            "abstract": "The shooting death of a UnitedHealthcare executive in Manhattan has unleashed Americans’ frustrations with an industry that often denies coverage and reimbursement for medical claims.",
+            "des_facet": [
+                "Health Insurance and Managed Care",
+                "Assassinations and Attempted Assassinations"
+            ],
+            "org_facet": [
+                "UnitedHealth Group Inc"
+            ],
+            "per_facet": [
+                "Thompson, Brian (1974-2024)"
+            ],
+            "geo_facet": [
+                "Midtown Area (Manhattan, NY)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Messages found on bullet casings at the scene of the Wednesday shooting — “delay” and “deny” — are two words familiar to many Americans who have interacted with insurance companies.",
+                    "copyright": "Karsten Moran for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/05/multimedia/05ny-insurance-anger-vlzg/05ny-insurance-anger-vlzg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/05/multimedia/05ny-insurance-anger-vlzg/05ny-insurance-anger-vlzg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/05/multimedia/05ny-insurance-anger-vlzg/05ny-insurance-anger-vlzg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/db5e6c59-2acc-56db-8b91-dae1dd6bad8d",
+            "url": "https://www.nytimes.com/2024/12/04/us/politics/hegseth-trump-defense.html",
+            "id": 100000009858129,
+            "asset_id": 100000009858129,
+            "source": "New York Times",
+            "published_date": "2024-12-04",
+            "updated": "2024-12-06 16:06:32",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "United States Politics and Government;Presidential Transition (US);Appointments and Executive Changes;United States Defense and Military Forces;Sex Crimes;Alcohol Abuse;Hegseth, Pete;DeSantis, Ron;Ernst, Joni;Trump, Donald J;Defense Department;Senate",
+            "column": null,
+            "byline": "By Maggie Haberman, Jonathan Swan and Michael D. Shear",
+            "type": "Article",
+            "title": "As Hegseth Vows to Fight, Trump Considers DeSantis for Defense Secretary",
+            "abstract": "The president-elect appeared to be having serious conversations about picking Gov. Ron DeSantis of Florida as Pete Hegseth, the current selection, dismissed the allegations against him.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Presidential Transition (US)",
+                "Appointments and Executive Changes",
+                "United States Defense and Military Forces",
+                "Sex Crimes",
+                "Alcohol Abuse"
+            ],
+            "org_facet": [
+                "Defense Department",
+                "Senate"
+            ],
+            "per_facet": [
+                "Hegseth, Pete",
+                "DeSantis, Ron",
+                "Ernst, Joni",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pete Hegseth, President-elect Donald J. Trump’s choice for defense secretary, said on Wednesday that the allegations against him were a fiction created by Mr. Trump’s enemies.",
+                    "copyright": "Kenny Holston/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/04dc-hegseth-senate-bkvl/04dc-hegseth-senate-bkvl-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/04dc-hegseth-senate-bkvl/04dc-hegseth-senate-bkvl-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/04dc-hegseth-senate-bkvl/04dc-hegseth-senate-bkvl-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f047f8c0-1263-5092-a5ae-d74ed5b7f208",
+            "url": "https://www.nytimes.com/2024/12/03/world/asia/china-minerals-semiconductors.html",
+            "id": 100000009855791,
+            "asset_id": 100000009855791,
+            "source": "New York Times",
+            "published_date": "2024-12-03",
+            "updated": "2024-12-04 00:04:00",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Rare Earths;International Trade and World Market;Embargoes and Sanctions;Metals and Minerals;Supply Chain;China",
+            "column": null,
+            "byline": "By David Pierson, Keith Bradsher and Ana Swanson",
+            "type": "Article",
+            "title": "China Bans Rare Mineral Exports to the U.S.",
+            "abstract": "The move escalates supply chain warfare and comes a day after the Biden administration expanded curbs on the sale of advanced American technology to China.",
+            "des_facet": [
+                "Rare Earths",
+                "International Trade and World Market",
+                "Embargoes and Sanctions",
+                "Metals and Minerals",
+                "Supply Chain"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China, which produces almost all the world’s supply of critical minerals, has been tightening its grip on the materials.",
+                    "copyright": "Wu Changqing/VCG, via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/03/world/03china-retaliation/03china-retaliation-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/03/world/03china-retaliation/03china-retaliation-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/03/world/03china-retaliation/03china-retaliation-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0aefd79e-c317-5358-8643-fa4d3e9ca2b2",
+            "url": "https://www.nytimes.com/2024/11/30/opinion/dating-bro-culture-manosphere-trump-cinderella.html",
+            "id": 100000009793538,
+            "asset_id": 100000009793538,
+            "source": "New York Times",
+            "published_date": "2024-11-30",
+            "updated": "2024-12-02 12:29:19",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Dating and Relationships;Men and Boys;Women and Girls;Marriages;Single Persons;Loneliness;Polls and Public Opinion;Presidential Election of 2024;Trump, Donald J;United States",
+            "column": null,
+            "byline": "By Sarah Bernstein",
+            "type": "Article",
+            "title": "How Our Messed-Up Dating Culture Leads to Loneliness, Anger and Donald Trump",
+            "abstract": "A generation of resentful young men has arisen from the cultural norm dictating that men must be the breadwinners.",
+            "des_facet": [
+                "Dating and Relationships",
+                "Men and Boys",
+                "Women and Girls",
+                "Marriages",
+                "Single Persons",
+                "Loneliness",
+                "Polls and Public Opinion",
+                "Presidential Election of 2024"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/30/multimedia/30bernstein-cpzg/30bernstein-cpzg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/30/multimedia/30bernstein-cpzg/30bernstein-cpzg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/30/multimedia/30bernstein-cpzg/30bernstein-cpzg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3805c866-912d-5b69-bf1e-5141b55e9a07",
+            "url": "https://www.nytimes.com/2024/12/03/style/alex-consani-model-of-the-year.html",
+            "id": 100000009856027,
+            "asset_id": 100000009856027,
+            "source": "New York Times",
+            "published_date": "2024-12-03",
+            "updated": "2024-12-07 01:51:28",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Transgender;Models (Professional);Awards, Decorations and Honors;Consani, Alex (2003- );British Fashion Council",
+            "column": null,
+            "byline": "By Guy Trebay",
+            "type": "Article",
+            "title": "In a First, Transgender Woman Wins Model of the Year",
+            "abstract": "Alex Consani is a star, on TikTok and on the runway. In her speech at the Fashion Awards in London, she acknowledged the struggles of other pioneers.",
+            "des_facet": [
+                "Transgender",
+                "Models (Professional)",
+                "Awards, Decorations and Honors"
+            ],
+            "org_facet": [
+                "British Fashion Council"
+            ],
+            "per_facet": [
+                "Consani, Alex (2003- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alex Consani was named Model of the Year at the Fashion Awards in London on Monday. She is the first transgender woman to win the prize.",
+                    "copyright": "Jeff Spicer/Getty Images for BFC",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/08/multimedia/03MODEL-OF-THE-YEAR-01-bpgz/03MODEL-OF-THE-YEAR-01-bpgz-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/08/multimedia/03MODEL-OF-THE-YEAR-01-bpgz/03MODEL-OF-THE-YEAR-01-bpgz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/08/multimedia/03MODEL-OF-THE-YEAR-01-bpgz/03MODEL-OF-THE-YEAR-01-bpgz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/dc6f247b-d40a-55aa-98a8-66ba7e970708",
+            "url": "https://www.nytimes.com/2024/12/07/nyregion/unitedhealthcare-ceo-shooting-suspect.html",
+            "id": 100000009865006,
+            "asset_id": 100000009865006,
+            "source": "New York Times",
+            "published_date": "2024-12-07",
+            "updated": "2024-12-08 05:57:51",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Assassinations and Attempted Assassinations;Murders, Attempted Murders and Homicides;Health Insurance and Managed Care;Deaths (Fatalities);Thompson, Brian (1974-2024);Midtown Area (Manhattan, NY)",
+            "column": null,
+            "byline": "By Hurubie Meko",
+            "type": "Article",
+            "title": "Some on Social Media See Suspect in C.E.O. Killing as a Folk Hero",
+            "abstract": "The authorities have pleaded for help in finding the person who killed Brian Thompson, the chief executive of UnitedHealthcare. But some seem more interested in rooting for the gunman.",
+            "des_facet": [
+                "Assassinations and Attempted Assassinations",
+                "Murders, Attempted Murders and Homicides",
+                "Health Insurance and Managed Care",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Thompson, Brian (1974-2024)"
+            ],
+            "geo_facet": [
+                "Midtown Area (Manhattan, NY)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A surveillance camera image released by law enforcement of the suspected shooter.",
+                    "copyright": "New York City Police Department",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/05/blogs/07uhc-shooter-social-topart/07uhc-shooter-social-topart-thumbStandard-v5.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/05/blogs/07uhc-shooter-social-topart/07uhc-shooter-social-topart-mediumThreeByTwo210-v5.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/05/blogs/07uhc-shooter-social-topart/07uhc-shooter-social-topart-mediumThreeByTwo440-v4.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e623b7bd-0983-5ba8-86c8-5e56024bbe2d",
+            "url": "https://www.nytimes.com/2024/11/30/us/politics/trump-replace-christopher-wray.html",
+            "id": 100000009847731,
+            "asset_id": 100000009847731,
+            "source": "New York Times",
+            "published_date": "2024-11-30",
+            "updated": "2024-12-01 12:52:48",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "United States Politics and Government;Presidential Transition (US);Appointments and Executive Changes;Patel, Kashyap;Wray, Christopher A;Trump, Donald J;Federal Bureau of Investigation",
+            "column": null,
+            "byline": "By Devlin Barrett and Maggie Haberman",
+            "type": "Article",
+            "title": "Trump Says He Will Nominate Kash Patel to Run F.B.I.",
+            "abstract": "President-elect Donald J. Trump turned to a firebrand loyalist to become director of the bureau, which he sees as part of a ‘deep state’ conspiracy against him.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Presidential Transition (US)",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "Federal Bureau of Investigation"
+            ],
+            "per_facet": [
+                "Patel, Kashyap",
+                "Wray, Christopher A",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kash Patel has worked as a federal prosecutor and a public defender, but has little of the law enforcement and management experience typical of F.B.I. directors.",
+                    "copyright": "Haiyun Jiang/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/30/multimedia/30dc-wray-01/30dc-wray-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/30/multimedia/30dc-wray-01/30dc-wray-01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/30/multimedia/30dc-wray-01/30dc-wray-01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ffba53e5-0c5f-59fe-ab39-a6496d5335b9",
+            "url": "https://www.nytimes.com/2024/12/05/well/ozempic-microdose-weight-loss.html",
+            "id": 100000009742746,
+            "asset_id": 100000009742746,
+            "source": "New York Times",
+            "published_date": "2024-12-05",
+            "updated": "2024-12-06 11:19:09",
+            "section": "Well",
+            "subsection": "",
+            "nytdsection": "well",
+            "adx_keywords": "GLP-1 RAs (Drug);Ozempic (Drug);Weight;Diet and Nutrition;Drugs (Pharmaceuticals)",
+            "column": null,
+            "byline": "By Dani Blum",
+            "type": "Article",
+            "title": "The Allure of ‘Microdosing’ Ozempic",
+            "abstract": "Some people are taking tiny amounts of weight loss medications, hoping to drop pounds while avoiding side effects. Does it work?",
+            "des_facet": [
+                "GLP-1 RAs (Drug)",
+                "Ozempic (Drug)",
+                "Weight",
+                "Diet and Nutrition",
+                "Drugs (Pharmaceuticals)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ricardo Tomás",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/10/29/well/29WELL-MICRODOSE-OZEMPIC/29WELL-MICRODOSE-OZEMPIC-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/10/29/well/29WELL-MICRODOSE-OZEMPIC/29WELL-MICRODOSE-OZEMPIC-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/10/29/well/29WELL-MICRODOSE-OZEMPIC/29WELL-MICRODOSE-OZEMPIC-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ff60905b-74d1-5ef8-a47c-94355312055a",
+            "url": "https://www.nytimes.com/2024/12/01/world/americas/mexico-fentanyl-chemistry-students.html",
+            "id": 100000009793492,
+            "asset_id": 100000009793492,
+            "source": "New York Times",
+            "published_date": "2024-12-01",
+            "updated": "2024-12-02 05:45:11",
+            "section": "World",
+            "subsection": "Americas",
+            "nytdsection": "world",
+            "adx_keywords": "Drug Cartels;Fentanyl;Opioids and Opiates;Chemistry;Colleges and Universities;Laboratories and Scientific Equipment;Sinaloa Cartel;Mexico;Sinaloa (Mexico)",
+            "column": null,
+            "byline": "By Natalie Kitroeff and Paulina Villegas",
+            "type": "Article",
+            "title": "Mexican Cartels Lure Chemistry Students to Make Fentanyl",
+            "abstract": "Criminals turn college campuses into recruitment hubs, recruiting chemistry students in Mexico with big paydays.",
+            "des_facet": [
+                "Drug Cartels",
+                "Fentanyl",
+                "Opioids and Opiates",
+                "Chemistry",
+                "Colleges and Universities",
+                "Laboratories and Scientific Equipment"
+            ],
+            "org_facet": [
+                "Sinaloa Cartel"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Mexico",
+                "Sinaloa (Mexico)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A 19-year-old sophomore chemistry major, who also works for the Sinaloa drug cartel, at a stash house.",
+                    "copyright": "Meridith Kohut for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/19/multimedia/19mexico-chemists-fkgt/19mexico-chemists-fkgt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/19/multimedia/19mexico-chemists-fkgt/19mexico-chemists-fkgt-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/19/multimedia/19mexico-chemists-fkgt/19mexico-chemists-fkgt-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d20f6366-b513-51d9-b0e3-60be0765c2e9",
+            "url": "https://www.nytimes.com/2024/12/04/us/school-shooting-oroville-california.html",
+            "id": 100000009860001,
+            "asset_id": 100000009860001,
+            "source": "New York Times",
+            "published_date": "2024-12-04",
+            "updated": "2024-12-05 10:19:41",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "School Shootings and Armed Attacks;Private and Sectarian Schools;Oroville (Calif);Butte County (Calif)",
+            "column": null,
+            "byline": "By Hank Sanders and Alexandra E. Petri",
+            "type": "Article",
+            "title": "Gunman Shoots 2 Kindergarteners at Rural Christian School in Targeted Attack",
+            "abstract": "The gunman at the Feather River Adventist School in Oroville, Calif., later died of what appeared to have been a self-inflicted gunshot wound, the authorities said.",
+            "des_facet": [
+                "School Shootings and Armed Attacks",
+                "Private and Sectarian Schools"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Oroville (Calif)",
+                "Butte County (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Law enforcement officers at the Feather River Adventist School in Oroville, Calif., where two children were shot on Wednesday. ",
+                    "copyright": "Michael Weber/The Chico Enterprise-Record, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/04xp-schoolshooter-ckqm/04xp-schoolshooter-ckqm-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/04xp-schoolshooter-ckqm/04xp-schoolshooter-ckqm-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/04xp-schoolshooter-ckqm/04xp-schoolshooter-ckqm-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/828b5c71-960b-5257-a8e5-d855d9e4b5af",
+            "url": "https://www.nytimes.com/2024/12/03/opinion/ezra-klein-podcast-rahm-emanuel.html",
+            "id": 100000009853884,
+            "asset_id": 100000009853884,
+            "source": "New York Times",
+            "published_date": "2024-12-03",
+            "updated": "2024-12-05 10:43:58",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Polls and Public Opinion;United States International Relations;Emanuel, Rahm;Democratic Party;Democratic National Committee",
+            "column": null,
+            "byline": "By Ezra Klein",
+            "type": "Article",
+            "title": "It’s the Corruption, Stupid",
+            "abstract": "The politician discusses what lessons he thinks Democrats have forgotten.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Presidential Election of 2024",
+                "Polls and Public Opinion",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Democratic National Committee"
+            ],
+            "per_facet": [
+                "Emanuel, Rahm"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Steven Ferdman/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/03/podcasts/03EKS-Emanuel/03EKS-Emanuel-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/03/podcasts/03EKS-Emanuel/03EKS-Emanuel-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/03/podcasts/03EKS-Emanuel/03EKS-Emanuel-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/fa21b8e4-1449-5e04-8937-3014bad43c66",
+            "url": "https://www.nytimes.com/interactive/2024/12/06/briefing/biden-trump-south-korea-brian-thompson-news-quiz.html",
+            "id": 100000009861864,
+            "asset_id": 100000009861864,
+            "source": "New York Times",
+            "published_date": "2024-12-06",
+            "updated": "2024-12-06 05:04:08",
+            "section": "Briefing",
+            "subsection": "",
+            "nytdsection": "briefing",
+            "adx_keywords": "Content Type: Quiz;internal-truncator",
+            "column": null,
+            "byline": "",
+            "type": "Interactive",
+            "title": "The New York Times News Quiz, Dec. 6, 2024",
+            "abstract": "Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.",
+            "des_facet": [
+                "Content Type: Quiz",
+                "internal-truncator"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "Eric Lee/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/06/multimedia/06newsquiz-biden-czqv/06newsquiz-biden-czqv-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/06/multimedia/06newsquiz-biden-czqv/06newsquiz-biden-czqv-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/06/multimedia/06newsquiz-biden-czqv/06newsquiz-biden-czqv-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bef4947b-a6fe-5d15-8030-c60d25bdc916",
+            "url": "https://www.nytimes.com/2024/12/01/us/politics/biden-pardon-son-hunter.html",
+            "id": 100000009853429,
+            "asset_id": 100000009853429,
+            "source": "New York Times",
+            "published_date": "2024-12-01",
+            "updated": "2024-12-04 11:10:22",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "United States Politics and Government;Amnesties, Commutations and Pardons;Presidents and Presidency (US);Presidential Election of 2024;Presidential Power (US);Tax Evasion;Gun Control;Biden, Hunter;Biden, Joseph R Jr;Trump, Donald J",
+            "column": null,
+            "byline": "By Michael D. Shear and Zolan Kanno-Youngs",
+            "type": "Article",
+            "title": "Biden Issues a ‘Full and Unconditional Pardon’ of His Son Hunter Biden",
+            "abstract": "The pardon comes weeks before President Biden leaves office and transfers power to President-elect Donald J. Trump, who spent years attacking Hunter Biden over his legal and personal issues.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Amnesties, Commutations and Pardons",
+                "Presidents and Presidency (US)",
+                "Presidential Election of 2024",
+                "Presidential Power (US)",
+                "Tax Evasion",
+                "Gun Control"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Hunter",
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden with his family in Nantucket on Friday. Biden announced the pardon after spending the weekend with his family.",
+                    "copyright": "Pete Marovich for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/01/multimedia/01dc-hunter-wqvh/01dc-hunter-wqvh-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/01/multimedia/01dc-hunter-wqvh/01dc-hunter-wqvh-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/01/multimedia/01dc-hunter-wqvh/01dc-hunter-wqvh-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/395eb522-af6f-5773-a8a3-917b6d0cab74",
+            "url": "https://www.nytimes.com/2024/12/03/style/zoe-kestan-hunter-biden.html",
+            "id": 100000009844208,
+            "asset_id": 100000009844208,
+            "source": "New York Times",
+            "published_date": "2024-12-03",
+            "updated": "2024-12-07 20:18:49",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Drug Abuse and Traffic;Social Media;Fashion and Apparel;Content Type: Personal Profile;Bars and Nightclubs;Biden, Hunter;Kestan, Zoe;Biden, Joseph R Jr",
+            "column": null,
+            "byline": "By Joseph Bernstein",
+            "type": "Article",
+            "title": "She Met Hunter Biden One Night at a Club. Then She Fell in Love.",
+            "abstract": "A chance meeting in December 2017 plunged Zoë Kestan, a downtown “it” girl and social media star, headlong into an unpredictable affair.",
+            "des_facet": [
+                "Drug Abuse and Traffic",
+                "Social Media",
+                "Fashion and Apparel",
+                "Content Type: Personal Profile",
+                "Bars and Nightclubs"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Hunter",
+                "Kestan, Zoe",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Certain people around me think of me only in relation to him.”",
+                    "copyright": "Graham Dickie/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/08/multimedia/HUNTER-BIDEN-EX-2-wjzb/HUNTER-BIDEN-EX-2-wjzb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/08/multimedia/HUNTER-BIDEN-EX-2-wjzb/HUNTER-BIDEN-EX-2-wjzb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/08/multimedia/HUNTER-BIDEN-EX-2-wjzb/HUNTER-BIDEN-EX-2-wjzb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/018a89ef-3ec6-5d29-acef-1a5f2568f336",
+            "url": "https://www.nytimes.com/2024/11/30/arts/television/best-tv-shows-2024.html",
+            "id": 100000009840372,
+            "asset_id": 100000009840372,
+            "source": "New York Times",
+            "published_date": "2024-11-30",
+            "updated": "2024-12-04 17:10:22",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Television;Two Thousand Twenty Four",
+            "column": null,
+            "byline": "By James Poniewozik, Mike Hale and Margaret Lyons",
+            "type": "Article",
+            "title": "Best TV Shows of 2024",
+            "abstract": "“English Teacher,” “My Brilliant Friend,” “Shogun,” “Babylon Berlin” and “Somebody Somewhere” were among the series that stood out in a year when television felt more mid than ever.",
+            "des_facet": [
+                "Television",
+                "Two Thousand Twenty Four"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anna Sawai, center, stars in an acclaimed new version of “Shogun.”",
+                    "copyright": "Katie Yu/FX, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/15/multimedia/15BEST-TV-fhjt/15BEST-TV-fhjt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/15/multimedia/15BEST-TV-fhjt/15BEST-TV-fhjt-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/15/multimedia/15BEST-TV-fhjt/15BEST-TV-fhjt-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7f35540f-6d89-51dd-87fd-2b9148bffd39",
+            "url": "https://www.nytimes.com/live/2024/12/04/nyregion/brian-thompson-uhc-ceo-shot/shooting-midtown-nyc-united-healthcare-brian-thompson",
+            "id": 100000009858214,
+            "asset_id": 100000009858214,
+            "source": "New York Times",
+            "published_date": "2024-12-04",
+            "updated": "2024-12-04 17:57:35",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Health Insurance and Managed Care;Murders, Attempted Murders and Homicides;internal-storyline-no;Assassinations and Attempted Assassinations;Thompson, Brian (1974-2024);UnitedHealth Group Inc;Midtown Area (Manhattan, NY)",
+            "column": null,
+            "byline": "By Chelsia Rose Marcius and Maria Cramer",
+            "type": "Article",
+            "title": "A manhunt is underway. Here’s the latest.",
+            "abstract": "",
+            "des_facet": [
+                "Health Insurance and Managed Care",
+                "Murders, Attempted Murders and Homicides",
+                "internal-storyline-no",
+                "Assassinations and Attempted Assassinations"
+            ],
+            "org_facet": [
+                "UnitedHealth Group Inc"
+            ],
+            "per_facet": [
+                "Thompson, Brian (1974-2024)"
+            ],
+            "geo_facet": [
+                "Midtown Area (Manhattan, NY)"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/50ab1dec-11e4-5f72-8b18-62fdce402d0a",
+            "url": "https://www.nytimes.com/interactive/2024/12/05/opinion/nuclear-weapons-space.html",
+            "id": 100000009834758,
+            "asset_id": 100000009834758,
+            "source": "New York Times",
+            "published_date": "2024-12-05",
+            "updated": "2024-12-07 19:59:48",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "internal-open-access;Nuclear Weapons;Missiles and Missile Defense Systems;United States Defense and Military Forces;Satellites;Space and Astronomy;Russia",
+            "column": null,
+            "byline": "By W.J. Hennigan",
+            "type": "Interactive",
+            "title": "The Warning",
+            "abstract": "No shockwave. No mushroom cloud. But a space nuke would change life on Earth forever.",
+            "des_facet": [
+                "internal-open-access",
+                "Nuclear Weapons",
+                "Missiles and Missile Defense Systems",
+                "United States Defense and Military Forces",
+                "Satellites",
+                "Space and Astronomy"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Russia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/2024-10-25-space-nukes-index/2024-10-25-space-nukes-index-thumbStandard-v4.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/2024-10-25-space-nukes-index/2024-10-25-space-nukes-index-mediumThreeByTwo210-v4.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/2024-10-25-space-nukes-index/2024-10-25-space-nukes-index-mediumThreeByTwo440-v4.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9b36d60f-1fdc-5b84-a456-01daf925ec31",
+            "url": "https://www.nytimes.com/2024/12/03/dining/ballerina-farm-hannah-neeleman.html",
+            "id": 100000009839925,
+            "asset_id": 100000009839925,
+            "source": "New York Times",
+            "published_date": "2024-12-03",
+            "updated": "2024-12-06 06:02:11",
+            "section": "Food",
+            "subsection": "",
+            "nytdsection": "food",
+            "adx_keywords": "Agriculture and Farming;Mormons (Church of Jesus Christ of Latter-Day Saints);Social Media;Entrepreneurship;Content Type: Personal Profile;Women and Girls;audio-neutral-informative;audio-positive-escape;Neeleman, Hannah;Ballerina Farm LLC;Utah",
+            "column": null,
+            "byline": "By Julia Moskin",
+            "type": "Article",
+            "title": "Tycoon or Tradwife? The Woman Behind Ballerina Farm Makes Her Own Path.",
+            "abstract": "Her picture-perfect life as a Mormon farm wife has made Hannah Neeleman a social media star and a cultural lightning rod.",
+            "des_facet": [
+                "Agriculture and Farming",
+                "Mormons (Church of Jesus Christ of Latter-Day Saints)",
+                "Social Media",
+                "Entrepreneurship",
+                "Content Type: Personal Profile",
+                "Women and Girls",
+                "audio-neutral-informative",
+                "audio-positive-escape"
+            ],
+            "org_facet": [
+                "Ballerina Farm LLC"
+            ],
+            "per_facet": [
+                "Neeleman, Hannah"
+            ],
+            "geo_facet": [
+                "Utah"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kim Raff for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/02Ballerina-farm-promo-ljtk/02Ballerina-farm-promo-ljtk-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/02Ballerina-farm-promo-ljtk/02Ballerina-farm-promo-ljtk-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/04/multimedia/02Ballerina-farm-promo-ljtk/02Ballerina-farm-promo-ljtk-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4b56bd12-7fda-5005-a1fc-84a4e63bab82",
+            "url": "https://www.nytimes.com/2024/12/04/us/politics/california-house-gray-duarte.html",
+            "id": 100000009781078,
+            "asset_id": 100000009781078,
+            "source": "New York Times",
+            "published_date": "2024-12-04",
+            "updated": "2024-12-05 14:19:07",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Elections, House of Representatives;United States Politics and Government;Presidential Election of 2024;Duarte, John Scott (1966- );Gray, Adam C (1977- );House of Representatives;California;Central Valley (Calif)",
+            "column": null,
+            "byline": "By Jill Cowan",
+            "type": "Article",
+            "title": "California Democrat Flips Seat in the Last House Race to Be Called",
+            "abstract": "Adam Gray, a former state lawmaker, defeated Representative John Duarte, a Republican, in a reversal of their 2022 race.",
+            "des_facet": [
+                "Elections, House of Representatives",
+                "United States Politics and Government",
+                "Presidential Election of 2024"
+            ],
+            "org_facet": [
+                "House of Representatives"
+            ],
+            "per_facet": [
+                "Duarte, John Scott (1966- )",
+                "Gray, Adam C (1977- )"
+            ],
+            "geo_facet": [
+                "California",
+                "Central Valley (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Adam Gray, the Democratic candidate, had emphasized endorsements from local law enforcement officials in his campaign.",
+                    "copyright": "Pool photo by Rich Pedroncelli",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/05/multimedia/05election-2024-nat-ca13-fzct/05election-2024-nat-ca13-fzct-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/05/multimedia/05election-2024-nat-ca13-fzct/05election-2024-nat-ca13-fzct-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/11/05/multimedia/05election-2024-nat-ca13-fzct/05election-2024-nat-ca13-fzct-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c648a58b-845e-51c8-81b6-58743de348d1",
+            "url": "https://www.nytimes.com/2024/12/02/books/review/cabin-patrick-hutchison.html",
+            "id": 100000009823290,
+            "asset_id": 100000009823290,
+            "source": "New York Times",
+            "published_date": "2024-12-02",
+            "updated": "2024-12-02 12:25:45",
+            "section": "Books",
+            "subsection": "Book Review",
+            "nytdsection": "books",
+            "adx_keywords": "Books and Literature;Content Type: Personal Profile;Hutchison, Patrick (Author)",
+            "column": null,
+            "byline": "By Alexander Nazaryan",
+            "type": "Article",
+            "title": "A Cabin-Porn Star Bares All",
+            "abstract": "Patrick Hutchison left city life to live an urbanite’s rural dream. The rest is funny, philosophical, chainsaw-wielding history.",
+            "des_facet": [
+                "Books and Literature",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Hutchison, Patrick (Author)"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2013, Patrick Hutchison bought a cabin on Craigslist that he describes as an “oversize doghouse.” ",
+                    "copyright": "Patrick Hutchison",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/03/multimedia/03Hutchison-Review-02-vmjl/03Hutchison-Review-02-vmjl-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/03/multimedia/03Hutchison-Review-02-vmjl/03Hutchison-Review-02-vmjl-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/12/03/multimedia/03Hutchison-Review-02-vmjl/03Hutchison-Review-02-vmjl-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
