@@ -15,7 +15,11 @@ class NewsListViewModel: ObservableObject {
     @Published var errorMessage: String = ""
     @Published var storedArticles: [Article] = []
 
-    lazy var apiClient: APIClient = NewsAPIManager()
+    private let apiClient: APIClient
+    
+    init(apiClient: APIClient) {
+        self.apiClient = apiClient
+    }
     
     func fetchArticles() async throws {
         DispatchQueue.main.async { [weak self] in
@@ -24,7 +28,7 @@ class NewsListViewModel: ObservableObject {
         apiClient.fetchNewsArticleList(days: 7, completion: { [weak self] result in
             switch result {
             case .success(let articles):
-                self?.articles = articles.results ?? []
+                self?.articles = articles.results?.sorted(by: {$0.publisherDate ?? "" > $01.publisherDate ?? ""}) ?? []
             case .failure(let error):
                 print(error)
                 DispatchQueue.main.async { [weak self] in

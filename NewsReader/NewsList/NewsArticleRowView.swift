@@ -19,7 +19,12 @@ struct NewsArticleRowView: View {
     var body: some View {
         HStack(alignment: .top, spacing: 10) {
             WebImage(url: URL(string: article.media?.first?.mediaMetadata?.first?.url ?? "")) { image in
-                image.image?.resizable()
+                image.resizable()
+            } placeholder: {
+                RoundedRectangle(cornerRadius: 5).foregroundColor(.gray)
+            }
+            .onSuccess() {_,_,_ in
+                
             }
             .indicator(.activity)
             .transition(.fade(duration: 0.5))

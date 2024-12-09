@@ -12,7 +12,7 @@ class NewsListViewModelTest: XCTestCase {
 
     var articles: [Article]?
     let service: APIClient = MockNewsAPIManager()
-    let newsListViewModel = NewsListViewModel()
+    let newsListViewModel = NewsListViewModel(apiClient: NewsAPIManager())
 
     override func setUp() {
         service.fetchNewsArticleList(days: 7) { [weak self] result in
@@ -52,5 +52,16 @@ class NewsListViewModelTest: XCTestCase {
         XCTAssertTrue(newsListViewModel.articles.first?.title == firstArticle?.title
                       && newsListViewModel.articles.first?.author == firstArticle?.author
                       && newsListViewModel.articles.first?.publisherDate == firstArticle?.publisherDate, "Article model should be same")
+    }
+    
+    func test_fetch_articles() async throws {
+        // call asynchronous method to fetch articles
+        try await newsListViewModel.fetchArticles()
+        
+        // wait for article to get
+        let articles = try XCTUnwrap(newsListViewModel.articles, "Articles should be fetched")
+        
+        // Assert for articles count
+        XCTAssertTrue(articles.count > 0, "Article should not be empty")
     }
 }

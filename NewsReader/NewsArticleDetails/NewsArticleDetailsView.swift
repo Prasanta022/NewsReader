@@ -53,7 +53,12 @@ extension NewsArticleDetailsView {
         Group {
             if geometry.frame(in: .global).minY <= 0 {
                 WebImage(url: URL(string: article.media?.first?.mediaMetadata?.last?.url ?? "")) { image in
-                    image.image?.resizable()
+                    image.resizable()
+                } placeholder: {
+                    Rectangle().foregroundColor(.gray)
+                }
+                .onSuccess { _,_,_  in
+                    
                 }
                 .aspectRatio(contentMode: .fill)
                 .frame(width: geometry.size.width, height: geometry.size.height)
@@ -61,7 +66,12 @@ extension NewsArticleDetailsView {
                 .clipped()
             } else {
                 WebImage(url: URL(string: article.media?.first?.mediaMetadata?.last?.url ?? "")) { image in
-                    image.image?.resizable()
+                    image.resizable()
+                } placeholder: {
+                    Rectangle().foregroundColor(.gray)
+                }
+                .onSuccess() { _,_,_  in
+                    
                 }
                 .aspectRatio(contentMode: .fill)
                 .frame(width: geometry.size.width, height: geometry.size.height + geometry.frame(in: .global).minY)

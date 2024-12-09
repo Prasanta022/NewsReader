@@ -9,11 +9,6 @@ import Foundation
 
 class NewsAPIManager: APIClient {
 
-    fileprivate enum APIError: Error {
-        
-        case invalidURL
-    }
-
     private struct Constants {
         
         static let apiKey: String = "api-key=WcBgtbkpdrPK3ESSPqCA9qfGcwrqRG5g"

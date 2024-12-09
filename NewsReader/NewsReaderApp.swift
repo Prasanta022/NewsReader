@@ -28,7 +28,7 @@ struct NewsReaderApp: App {
 
     var body: some Scene {
         WindowGroup {
-            NewsListView(viewModel: NewsListViewModel())
+            NewsListView(viewModel: NewsListViewModel(apiClient: NewsAPIManager()))
         }
         .modelContainer(sharedModelContainer)
     }
